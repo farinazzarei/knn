@@ -3,7 +3,8 @@
 This project implements the K-Nearest Neighbors (KNN) algorithm from scratch on an imbalanced employee attrition dataset.
 After identifying the best number of neighbors using the accuracy score, the dataset is also evaluated using other ensemble
 learning algorithms such as Random Forest, AdaBoost, and Bagging with KNN. Finally, the accuracies of all models are
-compared to analyze performance differences.
+compared to analyze performance differences. It is shown that boosting algorithms, such as AdaBoost, perform slightly better
+than the others.
 
 
 
