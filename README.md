@@ -18,12 +18,13 @@ pip install numpy
 pip install scikit-learn
 pip install matplotlib
 pip install seaborn
+pip install pandas
 ```
 
 ## how to run
 To run this Jupyter Notebook, you can either open it in Google Colab using the link below or run it locally using Jupyter Notebook.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/adaboost/blob/main/knn-from-scratch.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farinazzarei/knn/blob/main/knn-from-scratch.ipynb)
 
 Install Jupyter Notebook (if you don't have it yet):
 
